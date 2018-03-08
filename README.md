@@ -9,8 +9,15 @@ Yet a implementation of [Promises/A+](http://promises-aplus.github.com/promises-
 > Please prefer native `Promise` or canonical polyfill libs as [bluebird.js](https://github.com/petkaantonov/bluebird), [when.js](https://github.com/cujojs/when), etc .
 
 
+### installation
 
 ```bash
 npm install p-ap
 ```
 
+
+### tests
+
+```bash
+npm install && npm runt test
+```
