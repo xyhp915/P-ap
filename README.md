@@ -12,12 +12,12 @@ Yet a implementation of [Promises/A+](http://promises-aplus.github.com/promises-
 ### installation
 
 ```bash
-npm install p-ap
+npm install @xyhp915/p-ap
 ```
 
 
 ### tests
 
 ```bash
-npm install && npm runt test
+npm install && npm run test
 ```
