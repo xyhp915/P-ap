@@ -1,7 +1,7 @@
 // const P = Promise
-// const P = require('./p.js').Promise
+const P = require('./p.js').Promise
 // const P = require('bluebird')
-const P = require('lie')
+// const P = require('lie')
 
 module.exports = {
   defineGlobalPromise: function (globalScope) {
