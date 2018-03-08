@@ -1,0 +1,22 @@
+{
+  "name": "p-ap",
+  "version": "0.0.1",
+  "description": "a implementation of Promise/A+ with full promises-es6-tests for presentation .",
+  "main": "p.js",
+  "scripts": {
+    "test": "promises-es6-tests tests-adapter.js"
+  },
+  "keywords": [
+    "promise",
+    "implementation",
+    "monad",
+    "then"
+  ],
+  "devDependencies": {
+    "promises-aplus-tests": "*",
+    "promises-es6-tests": "*"
+  },
+  "git": "https://github.com/xyhp915/P-pa.git",
+  "author": "xyhp915@gmail.com",
+  "license": "MIT"
+}
