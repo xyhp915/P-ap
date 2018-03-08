@@ -1,5 +1,5 @@
 {
-  "name": "p-ap",
+  "name": "@xyhp915/p-ap",
   "version": "0.0.1",
   "description": "a implementation of Promise/A+ with full promises-es6-tests for presentation .",
   "main": "p.js",
